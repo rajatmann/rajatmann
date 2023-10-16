@@ -4,7 +4,7 @@
 <img align="right" alt="Coding" width="400" src="https://gifdb.com/images/high/ai-artificial-intelligence-human-robot-brain-pon8h9dclo1fl1u2.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajatmann&label=Profile%20views&color=0e75b6&style=flat" alt="rajatmann" /> </p>
 
-- 🔭 I’m currently working on **Phising URL detection**
+- 🔭 I’m currently working on **Convolutional Neural Networks**
 
 - 🌱 I’m currently enrolled in **Post Graduate Diploma in AI and Machine learning**
 
