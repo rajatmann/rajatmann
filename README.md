@@ -14,7 +14,7 @@
 
 - 📫 Reach me at **rajatmann12@gmail.com**
 
-- ⚡ Fun fact **I have a resemblance with deadpool.**
+- ⚡ Fun fact, **I have a resemblance with deadpool.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
